@@ -1,0 +1,11 @@
+asyncpg==0.22.0
+#asyncio support for db
+databases[postgresql]==0.5.2
+fastapi==0.68.1
+psycopg2-binary==2.8.6
+SQLAlchemy==1.4.24
+uvicorn==0.13.4
+
+# dev
+pytest==6.2.3
+requests==2.25.1
